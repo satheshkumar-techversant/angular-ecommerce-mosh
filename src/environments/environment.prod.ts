@@ -1,12 +1,12 @@
 export const environment = {
   production: true,
   firebase:{
-    apiKey: "AIzaSyCb6DdrAKDF7iKAwKH0Nh4Y2NcBRT1Lut4",
-    authDomain: "dsk-shop-app.firebaseapp.com",
-    projectId: "dsk-shop-app",
-    storageBucket: "dsk-shop-app.appspot.com",
-    messagingSenderId: "410259194855",
-    appId: "1:410259194855:web:2805811f0ea2fd343ef342",
-    measurementId: "G-F814RFKB3B"
+    apiKey: "AIzaSyBqPMF_fM57R32LaqLZANSNInLHQ4h6Pgs",
+    authDomain: "dsk-shopping-app.firebaseapp.com",
+    projectId: "dsk-shopping-app",
+    storageBucket: "dsk-shopping-app.appspot.com",
+    messagingSenderId: "267788357317",
+    appId: "1:267788357317:web:20e39ba6dafbb3afad6aac",
+    measurementId: "G-9RFLTFBZD1"
   }
 };
